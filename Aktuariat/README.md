@@ -1,4 +1,4 @@
-# 02_Aktuariat: Modelle und Methoden der Versicherungsmathematik
+# Aktuariat: Modelle und Methoden der Versicherungsmathematik
 
 Hier entsteht mein aktuarieller Werkzeugkasten: Alles, was ich als angehender Aktuar können und zeigen möchte.
 
