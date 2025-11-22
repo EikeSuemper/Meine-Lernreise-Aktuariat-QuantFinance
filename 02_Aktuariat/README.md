@@ -9,7 +9,7 @@ Ich möchte zeigen, dass ich die klassischen und modernen Methoden der Versicher
 
 | Thema                         | Notebook / Datei                          | Status       |
 |-------------------------------|-------------------------------------------|--------------|
-| Sterbetafeln & Lebenserwartung| `Sterbetafel.ipynb`         | In Bearbeitung         |
+| Sterbetafeln & Lebenserwartung| `Sterbetafel.ipynb`         | Erledigt         |
 | Nettoprämie & Barwerte        | `Nettoprämie_Leibrente.ipynb`             | In Bearbeitung |
 | Schadenmodellierung           | `Schadenmodell_PoissonGamma.ipynb`        | In Bearbeitung |
 | Chain-Ladder & IBNR           | `Chain_Ladder_IBNR.ipynb`                 | In Bearbeitung |
