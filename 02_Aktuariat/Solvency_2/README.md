@@ -17,6 +17,6 @@ Hier eine Übersicht über die Dateien und Notebooks. Jede enthält Erklärungen
 |---------------|--------------|-------------|
 | --- | Einfache Monte-Carlo-Simulation für Markt-Risiko-SCR (Geometric Brownian Motion, VaR-Berechnung). Erweitert mit Plots und Sensitivitätsanalysen. | Geplant |
 | --- | Detaillierte Erklärungen zu Nested MC, LSMC und MLMC. | Geplant |
-| --- | Zusammenfassung der 3 Säulen. | Geplant |
+| Säulen_von_Solvency_2.ipynb | Zusammenfassung der 3 Säulen. | Erledigt |
 
 Dieser Ordner ist Teil meiner Lernreise.
