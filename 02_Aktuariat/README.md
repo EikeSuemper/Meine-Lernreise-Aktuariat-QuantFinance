@@ -12,7 +12,7 @@ Ich möchte zeigen, dass ich die klassischen und modernen Methoden der Versicher
 | Sterbetafeln & Lebenserwartung| `Sterbetafel.ipynb`         | Erledigt         |
 | Nettoprämie & Barwerte        | `Nettoprämie_Leibrente.ipynb`             | In Bearbeitung |
 | Schadenmodellierung           | `Schadenmodell_PoissonGamma.ipynb`        | In Bearbeitung |
-| Chain-Ladder & IBNR           | `Chain_Ladder_IBNR.ipynb`                 | In Bearbeitung |
+| Chain-Ladder            | `Chain_Ladder_IBNR.ipynb`                 | In Bearbeitung |
 | Ruinmodell (Cramér-Lundberg)  | `Ruinmodell_Simulation.ipynb`             | Geplant      |
 | Monte-Carlo & VaR             | `MonteCarlo_VaR.ipynb`                    | Geplant      |
 | Solvency II – SCR-Simulation  | `Solvency_II_MonteCarlo.ipynb`            | Geplant      |
