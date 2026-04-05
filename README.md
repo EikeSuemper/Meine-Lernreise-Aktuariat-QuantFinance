@@ -6,3 +6,9 @@ In diesem Ordner geht es um Grundlagen bezüglich der Anwendung von Programmen. 
 
 # 02_Aktuariat
 Der Ordner umfasst sowohl theoretische Erkenntnisse aus meinem Studium, als auch praktische Übungen (Projekte), in denen ich das theoretisch erlernte Wissen umsetze. Hierzu zählen ebenso eigenständig erlernte Methoden und Modelle aus der Versicherungsmathematik, sowie Einflüsse aus Arbeit/Praktika/Webinare/Bücher.
+
+# 03_Quant
+Dieser Ordner umfasst Modelle und Methoden der quantitativen Finanzen.
+
+# 04_Datensätze
+Hier befinden sich alle Rohdaten, Datensätze und Bilder/Diagramme, die in den verschiedenen Projekten angewendet werden.
